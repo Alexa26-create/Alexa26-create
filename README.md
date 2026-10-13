@@ -1,7 +1,7 @@
 <!-- ENCABEZADO CUTE CON GIFS Y TEXTO ANIMADO -->
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1ZHZqZnR5Ynduc3llbXB2enpzb2I2YmkyOHRwYXlreWk3ZDJ6OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="Waving hand">
-  <h1>¡Hola, soy <span style="color: #ff9a9e;">[Tu Nombre]</span>! ✨🌸</h1>
+  <h1>¡Hola, soy <span style="color: #ff9a9e;">Alexa</span>! ✨🌸</h1>
   
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FFB6C1&center=true&vCenter=true&width=500&lines=🌱+Creando+cosas+lindas+y+geniales;🌸+Apasionad%40+por+el+c%C3%B3digo;✨+Siempre+aprendiendo+algo+nuevo" alt="Typing SVG Cute" />
@@ -18,7 +18,7 @@
     <td width="60%" valign="top">
       <h3>🌸 Sobre mí</h3>
       <ul>
-        <li>🔭 Actualmente trabajando en <b>[Tu Proyecto]</b></li>
+        <li>🔭 Actualmente estudiando la <b>Uni</b></li>
         <li>🌱 Aprendiendo constantemente sobre <b>[Tecnología]</b></li>
         <li>💬 Pregúntame sobre <b>[Tus fortalezas, ej: Web, Python, JS]</b></li>
         <li>💌 Escríbeme a: <code>tu_email@ejemplo.com</code></li>
