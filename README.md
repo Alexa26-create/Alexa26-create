@@ -109,8 +109,8 @@
 
 <br>
 
-<!-- CONTADOR DE VISITAS -->
+<!-- CONTADOR DE VISITAS ALTERNATIVO -->
 <div align="center">
   <p>✨ ¡Gracias por visitar mi perfil! ✨</p>
-  <img src="https://komarev.com/ghpvc/?username=Alexa26-create&color=ff758f&style=flat-square&label=Visitas+al+perfil" alt="Contador de visitas" />
+  <img src="https://profile-counter.glitch.me/Alexa26-create/count.svg" alt="Contador de visitas" />
 </div>
