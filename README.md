@@ -47,7 +47,7 @@
         <h3>💻 Áreas de Interés</h3>
         <ul>
           <li>🌐 <b>Desarrollo Web</b> (Frontend & Backend)</li>
-          <li>🤖 <b>Sistemas Embebidos & IoT</b> (Arduino)</li>
+          <li>🤖 <b>Sistemas y ProyectosT</b> (Arduino)</li>
           <li>📊 <b>Bases de Datos & Gestión de Información</b></li>
           <li>⚙️ <b>Automatización & Herramientas de TI</b></li>
         </ul>
@@ -102,15 +102,7 @@
   <a href="mailto:ayarirosales27@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://linkedin.com/in/TU_USUARIO" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-C5A3FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
 </p>
 
 <br>
 
-<!-- CONTADOR DE VISITAS ALTERNATIVO -->
-<div align="center">
-  <p>✨ ¡Gracias por visitar mi perfil! ✨</p>
-  <img src="https://profile-counter.glitch.me/Alexa26-create/count.svg" alt="Contador de visitas" />
-</div>
