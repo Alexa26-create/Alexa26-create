@@ -71,14 +71,17 @@
 <h3>🛠️ Tecnologías y Herramientas</h3>
 
 <p align="left">
-  <!-- Lenguajes & Web -->
+  <!-- Desarrollo Web -->
   <img src="https://img.shields.io/badge/HTML5-FFABAB?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-C5A3FF?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Python-FFD1DC?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
-  <!-- Hardware & Control de Versiones -->
+  <!-- Móvil & Hardware -->
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  <!-- Control de Versiones -->
   <img src="https://img.shields.io/badge/Git-FFC3A0?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-B5EAD7?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" />
 </p>
