@@ -18,7 +18,7 @@
       <h3>🌸 Sobre mí</h3>
       <ul>
         <li>🎓 Estudiante de <b>Ingeniería en Tecnologías de la Información</b>.</li>
-        <li>📍 Basada en <b>Guerrero, México</b> 🇲🇽.</li>
+        <li>📍 De <b>Guerrero, México</b> 🇲🇽.</li>
         <li>💡 Apasionada por la <b>tecnología, la programación y el hardware/sistemas</b>.</li>
         <li>🌱 Actualmente enfocada en fortalecer mis habilidades en desarrollo de software e innovación tecnológica.</li>
         <li>💬 Pregúntame sobre proyectos de TI, desarrollo web o electrónica con Arduino.</li>
